@@ -1,0 +1,3 @@
+This is a socket server written in C/C++.
+To compile it, you should use MAKE command.
+Before run, the Server.config file should be edited to set the listening port, buffer size .etc.
